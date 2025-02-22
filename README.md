@@ -1,1 +1,5 @@
-# my_favorites
+🎮  gaming
+🍔  food
+🧗  gym-climbing
+☕  coffee
+📚  reading
