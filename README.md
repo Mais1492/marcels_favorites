@@ -2,4 +2,4 @@
 🍔  food
 🧗  gym-climbing
 ☕  coffee
-📚  reading
+🍆 eggplanting
